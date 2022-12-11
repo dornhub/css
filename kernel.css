@@ -71,18 +71,7 @@ body{
 	#navbut2{margin-left:85px;}
 	#navbut3{margin-left:165px;}
 	#navbut4{margin-left:245px;}
-	#navbut5{margin-left:325px;color:white;
-		font-weight:900;
-		border: 2px solid #fff;
-		box-shadow: 0 0 10px rgba(30,144,255,0.25),
-        	0 0 20px rgba(30,144,255,0.25),  
-        	0 0 30px rgba(30,144,255,0.25),  
-        	0 0 40px rgba(30,144,255,0.25),        
-        	0 0 100px rgba(30,144,255,0.25),  
-        	0 0 200px rgba(30,144,255,0.25),  
-        	0 0 300px rgba(30,144,255,0.1),  
-        	0 0 400px rgba(30,144,255,0.05);
-		border-image: linear-gradient(to top right, #1565c0, #000, #1565c0) 3;}
+	#navbut5{margin-left:325px;}
 	#navbut6{margin-left:405px;}
 	#navbut7{margin-left:485px;}
 	#navbut8{margin-left:565px;}
